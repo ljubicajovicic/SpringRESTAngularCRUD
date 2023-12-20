@@ -1,0 +1,19 @@
+.title-center {
+    margin: 0 auto;
+}
+
+.content {
+    padding: 16px;
+    display: flex;
+}
+
+.mat-card {
+    margin-left: 20px;
+    width: 480px;
+    height: 180;
+}
+
+.image {
+    width: 200;
+    height: 185px;
+}
